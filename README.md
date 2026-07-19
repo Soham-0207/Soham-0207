@@ -47,6 +47,18 @@ Rather than just following tutorials, I focus on building impactful projects tha
 
 ---
 
+## 🐍 My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soham-0207/Soham-0207/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Soham-0207/Soham-0207/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Soham-0207/Soham-0207/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
