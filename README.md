@@ -60,7 +60,7 @@ Rather than just following tutorials, I focus on building impactful projects tha
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soham-0207&show_icons=true&theme=tokyonight" alt="Soham's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-0207&theme=tokyonight" alt="Soham's GitHub Stats" />
 </div>
 
 <br>
