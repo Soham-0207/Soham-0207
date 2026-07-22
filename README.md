@@ -1,26 +1,26 @@
-# Soham
+# Soham Vora
 
 🚀 Software Engineer | Full Stack Developer 
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/soham-vora-7209b732b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sohamvora0207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/Soham-0207"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <em>"Your favorite programming quote or motto goes right here."</em>
+  <em>"Precision meets Creativity. Engineering the foundation of unforgettable digital experiences."</em>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate developer... [Add a brief description about yourself, your background, and your interests. Similar to what your friend has, but tailored to you].
+I am a B.Tech Computer Science and Engineering student at IIIT Diu with a deep passion for full-stack software development and algorithmic problem-solving. I thrive on architecting scalable backend systems and building highly interactive, polished user interfaces.
 
-Rather than just following tutorials, I focus on building impactful projects that solve real problems and shipping them to users.
+Rather than just following tutorials, I focus on building impactful projects that solve real problems—like my recent full-stack event ticketing platform, NovaTix. I'm constantly eager to apply my technical skills, learn modern technologies, and contribute to real-world software engineering projects.
 
 ---
 
@@ -28,22 +28,20 @@ Rather than just following tutorials, I focus on building impactful projects tha
 
 | Category | Technologies |
 | --- | --- |
-| 💻 **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) [Add others like C++, Python] |
-| 🌐 **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [Add others like Next.js] |
-| ⚙️ **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) [Add others] |
-| 🗄️ **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) [Add others] |
-| ☁️ **Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) [Add others] |
-
-*(Tip: You can get more awesome badges from [Shields.io](https://shields.io/))*
+| 💻 **Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| 🌐 **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| ⚙️ **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| 🗄️ **Databases & Cache** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| ☁️ **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge) |
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🎫 [NovaTix Booking](https://github.com/Soham-0207/novatix-booking) | 📁 [Portfolio](https://github.com/Soham-0207/Portfolio) |
+| 🎫 [NovaTix Booking](https://github.com/Soham-0207/novatix-booking) | 📁 [Portfolio](https://portfolio-4x7t71ur7-silent-devil.vercel.app/) |
 | :--- | :--- |
-| **Modern Event Ticketing Platform**<br><br>NovaTix is a modern, high-performance event ticketing and booking platform built with React and Node.js. It features a fully responsive UI and an interactive seat mapping system. | **Personal Developer Portfolio**<br><br>My personal portfolio showcasing my projects, skills, and experience as a developer. |
-| `React` `Node.js` `Express` `MongoDB` | `JavaScript` `HTML` `CSS` |
+| **Next-Generation Ticketing Platform**<br><br>A full-stack event ticket booking platform with real-time seat reservation using Redis locks, secure JWT authentication, and automated email reminders via Nodemailer. | **Personal Developer Portfolio**<br><br>A premium, highly interactive personal portfolio featuring dynamic glassmorphism UI, a custom physics playground, and immersive WebGL/Canvas backgrounds. |
+| `React` `Node.js` `Express` `MySQL` `Redis` | `React` `Framer Motion` `CSS3` |
 
 ---
 
@@ -62,7 +60,7 @@ Rather than just following tutorials, I focus on building impactful projects tha
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soham-0207&show_icons=true&theme=tokyonight" alt="Soham's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Soham-0207&show_icons=true&theme=tokyonight" alt="Soham's GitHub Stats" />
 </div>
 
 <br>
@@ -73,22 +71,22 @@ Rather than just following tutorials, I focus on building impactful projects tha
 
 ---
 
-## 🏆 Achievements & Coding Profiles
+## 🏆 Achievements & Education
 
 | Platform / Achievement | Details |
 | :--- | :--- |
-| 💻 **LeetCode** | [Link to your profile] (e.g., 200+ Problems Solved) |
-| 🎓 **Academics** | [Your Degree and University/College] |
-| 🌟 **Focus Areas** | [e.g., Data Structures & Algorithms, Full-Stack Development] |
+| 🎓 **Academics** | B.Tech in Computer Science and Engineering @ IIIT Diu (2024 - 2028) |
+| 📜 **Certifications** | AI Tools and ChatGPT Workshop (Be10X) |
+| 🌟 **Focus Areas** | Data Structures & Algorithms, Full-Stack Development, AI Tools |
 
 ---
 
 ## 🎯 2026 Goals & Current Focus
 
-- **Building:** [What are you currently building? e.g., Expanding NovaTix]
-- **Learning:** [What are you currently learning? e.g., System Design, AWS]
-- **Exploring:** [What new tech are you exploring? e.g., Next.js, AI Agents]
-- **Achieving:** [What is your main goal for the year?]
+- **Building:** Expanding NovaTix into a robust microservices architecture and optimizing its backend for high concurrency.
+- **Learning:** Advanced System Design, distributed systems, and mastering cloud infrastructure for scalable deployments.
+- **Exploring:** The intersection of AI and modern web applications and deep diving into performance optimization.
+- **Achieving:** Evolving into a highly proficient Full-Stack Engineer capable of architecting complex systems from scratch.
 
 ---
 
