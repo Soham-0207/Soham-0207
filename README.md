@@ -66,7 +66,7 @@ Rather than just following tutorials, I focus on building impactful projects tha
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-0207&theme=tokyonight" alt="Soham's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-0207&layout=compact&theme=tokyonight" alt="Soham's Top Languages" />
 </div>
 
 ---
