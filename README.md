@@ -63,11 +63,7 @@ Rather than just following tutorials, I focus on building impactful projects tha
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-0207&theme=tokyonight" alt="Soham's GitHub Stats" />
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soham-0207&theme=tokyonight" alt="Soham's Top Languages" />
-</div>
 
 ---
 
